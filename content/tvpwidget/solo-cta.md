@@ -18,9 +18,7 @@
             "facebook",
             "twitter",
             "pinterest",
-            "google-plus",
-            "linkedin",
-            "email"
+            "google-plus"
         ],
         "domain": "videos.project1515.com"
     }
